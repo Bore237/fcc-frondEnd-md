@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-frondEnd-md/static/css/main.f52d8edd.css",
+    "main.js": "/fcc-frondEnd-md/static/js/main.8f97180a.js",
+    "index.html": "/fcc-frondEnd-md/index.html",
+    "main.f52d8edd.css.map": "/fcc-frondEnd-md/static/css/main.f52d8edd.css.map",
+    "main.8f97180a.js.map": "/fcc-frondEnd-md/static/js/main.8f97180a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52d8edd.css",
+    "static/js/main.8f97180a.js"
+  ]
+}
